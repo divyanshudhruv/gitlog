@@ -134,7 +134,7 @@ Closes #<issue>
 🚧 wip(): Work in progress
 ```
 ```markdown
-📊 metrics: Metrics and monitoring
+📊 metrics(): Metrics and monitoring
 ```
 
 <Br>
@@ -150,7 +150,7 @@ Closes #<issue>
 🛡️ protect(): Security patches or fixes
 ```
 ```markdown
-🔌 api: API-related changes
+🔌 api(): API-related changes
 ```
 
 <br>
