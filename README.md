@@ -1,5 +1,7 @@
 # ⚡ Gitlog
-🔦 A **`list`** of common **`git`** commit messages for **`clear`** and **`consistent`** version control. Just **`copy`**, **`paste`** and **`customize`**. **`Inspired`** from[^1].
+🔦 A **`list`** of common **`git`** commit messages for **`clear`** and **`consistent`** version control. Just **`copy`**, **`paste`** and **`customize`**. 
+
+> **`💡 Inspiration`**[^1].
 
 
 <br>
