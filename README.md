@@ -52,7 +52,7 @@ Closes #<issue>
 **`0.`** **Initialization**
 
 ```markdown
-🎉 init(): Initial commit
+🎉 init(project): Initial commit
 ```
 <br>
 
@@ -123,6 +123,9 @@ Closes #<issue>
 **`5.`** **Testing and maintenance**
 ```markdown
 ✅ test(): Adding/modifying tests
+```
+```markdown
+❎ test(): Adding/modifying tests
 ```
 ```markdown
 🔧 chore(): Maintenance tasks
@@ -243,6 +246,8 @@ Closes #<issue>
 - `backend`
 - `forms`
 - `router`
+- `passed`
+- `failed`
 
 <Br>
 
