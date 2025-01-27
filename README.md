@@ -122,10 +122,10 @@ Closes #<issue>
 
 **`5.`** **Testing and maintenance**
 ```markdown
-✅ test(): Adding/modifying tests
+✔️ test(passed): Adding/modifying/result tests
 ```
 ```markdown
-❎ test(): Adding/modifying tests
+❌ test(failed): Adding/modifying/result tests
 ```
 ```markdown
 🔧 chore(): Maintenance tasks
