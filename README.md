@@ -171,6 +171,9 @@ Closes #<issue>
 ```markdown
 🔨 setup(): Setup or config changes
 ```
+```
+🧰 deps(): Adjust dependencies (upgrade/downgrade)
+```
 
 <Br>
 
