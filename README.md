@@ -140,9 +140,17 @@ Closes #<issue>
 📊 metrics(): Metrics and monitoring
 ```
 
+<br>
+
+**`6.`**Non-feature Changes****
+
+```
+🚚 non-feature(): Non-feature change (json)
+```
+
 <Br>
 
-**`6.`** **Security and reverting changes**
+**`7.`** **Security and reverting changes**
 ```markdown
 🔒 security(): Security improvements
 ```
@@ -158,7 +166,7 @@ Closes #<issue>
 
 <br>
 
-**`7.`** **Deployments and builds**
+**`8.`** **Deployments and builds**
 ```markdown
 🚀 deploy(): Deploy-related changes
 ```
@@ -177,7 +185,7 @@ Closes #<issue>
 
 <Br>
 
-**`8.`** **Database and infrastructure**
+**`9.`** **Database and infrastructure**
 ```markdown
 🗃️ db(): Database changes
 ```
@@ -190,7 +198,7 @@ Closes #<issue>
 
 <br>
 
-**`9.`** **Others**
+**`10.`** **Others**
 
 ```markdown
 📤 release(): New releases or version bumps
@@ -216,7 +224,7 @@ Closes #<issue>
 
 <br>
 
-**`10.`** **Please**
+**`11.`** **Please**
 ```markdown
 🙏 pls(): Request or polite suggestion
 ```
