@@ -52,92 +52,92 @@ Closes #<issue>
 **`0.`** **Initialization**
 
 ```markdown
-🎉 init(project): Initial commit
+🎉 init(project): initial commit
 ```
 <br>
 
 **`1.`** **Features and enhancement**
 ```markdown
-✨ feat(): New feature
+✨ feat(): new feature
 ```
 ```markdown
-⚡ perf(): Performance improvements
+⚡ perf(): performance improvements
 ```
 ```markdown
-🎨 design(): UI/UX design improvements
+🎨 design(): ui/ux design improvements
 ```
 ```markdown
-📈 analytics(): Analytics or tracking code
+📈 analytics(): analytics or tracking code
 ```
 ```markdown
-🔌 integration(): External integrations
+🔌 integration(): external integrations
 ```
 
 <br>
 
 **`2.`** **Bug fixes**
 ```markdown
-🐛 fix(): Bug fix
+🐛 fix(): bug fix
 ```
 ```markdown
-🔍 debug(): Debugging changes
+🔍 debug(): debugging changes
 ```
 ```markdown
-👨‍🔧 patch(): Minor fix or patch
+👨‍🔧 patch(): minor fix or patch
 ```
 
 <br>
 
 **`3.`** **Documentation**
 ```markdown
-📚 docs(): Documentation changes
+📚 docs(): documentation changes
 ```
 ```markdown
-📝 update(): Minor updates
+📝 update(): minor updates
 ```
 ```markdown
-📖 guide(): Update or add a guide
+📖 guide(): update or add a guide
 ```
 
 <Br>
 
 **`4.`** **Code styling and refactoring**
 ```markdown
-💄 style(): Code formatting
+💄 style(): code formatting
 ```
 ```markdown
-♻️ refactor(): Code refactoring
+♻️ refactor(): code refactoring
 ```
 ```markdown
-🧹 cleanup(): Clean-up or refactor of unused code
+🧹 cleanup(): clean-up or refactor of unused code
 ```
 ```markdown
-🛠️ fix(): Code improvements
+🛠️ fix(): code improvements
 ```
 ```markdown
-🔥 remove(): Removing files or code
+🔥 remove(): removing files or code
 ```
 
 <br>
 
 **`5.`** **Testing and maintenance**
 ```markdown
-✔️ test(passed): Adding/modifying/result tests
+✔️ test(passed): adding/modifying/result tests
 ```
 ```markdown
-❌ test(failed): Adding/modifying/result tests
+❌ test(failed): adding/modifying/result tests
 ```
 ```markdown
-🔧 chore(): Maintenance tasks
+🔧 chore(): maintenance tasks
 ```
 ```markdown
-🔨 build(): Changes to the build process
+🔨 build(): changes to the build process
 ```
 ```markdown
-🚧 wip(): Work in progress
+🚧 wip(): work in progress
 ```
 ```markdown
-📊 metrics(): Metrics and monitoring
+📊 metrics(): metrics and monitoring
 ```
 
 <br>
@@ -145,55 +145,55 @@ Closes #<issue>
 **`6.`**Non-feature Changes****
 
 ```
-🚚 non-feature(): Non-feature change (json)
+🚚 non-feature(): non-feature change (json)
 ```
 
 <Br>
 
 **`7.`** **Security and reverting changes**
 ```markdown
-🔒 security(): Security improvements
+🔒 security(): security improvements
 ```
 ```markdown
-📌 revert(): Reverting previous changes
+📌 revert(): reverting previous changes
 ```
 ```markdown
-🛡️ protect(): Security patches or fixes
+🛡️ protect(): security patches or fixes
 ```
 ```markdown
-🔌 api(): API-related changes
+🔌 api(): api-related changes
 ```
 
 <br>
 
 **`8.`** **Deployments and builds**
 ```markdown
-🚀 deploy(): Deploy-related changes
+🚀 deploy(): deploy-related changes
 ```
 ```markdown
-📦 build(): Changes to build configuration
+📦 build(): changes to build configuration
 ```
 ```markdown
-🧪 ci(): Continuous Integration changes
+🧪 ci(): continuous Integration changes
 ```
 ```markdown
-🔨 setup(): Setup or config changes
+🔨 setup(): setup or config changes
 ```
 ```
-🧰 deps(): Adjust dependencies (upgrade/downgrade)
+🧰 deps(): adjust dependencies (upgrade/downgrade)
 ```
 
 <Br>
 
 **`9.`** **Database and infrastructure**
 ```markdown
-🗃️ db(): Database changes
+🗃️ db(): database changes
 ```
 ```markdown
-👷 infra(): Infrastructure improvements
+👷 infra(): infrastructure improvements
 ```
 ```markdown
-📡 network(): Network configurations or updates
+📡 network(): network configurations or updates
 ```
 
 <br>
@@ -201,32 +201,32 @@ Closes #<issue>
 **`10.`** **Others**
 
 ```markdown
-📤 release(): New releases or version bumps
+📤 release(): new releases or version bumps
 ```
 ```markdown
-📜 dumpversion(): Dumping version info or changelog
+📜 dumpversion(): dumping version info or changelog
 ```
 ```markdown
-🔄 ref(): Reference updates or reorganization
+🔄 ref(): reference updates or reorganization
 ```
 ```markdown
-💬 discussion(): Ongoing discussions or issue resolutions
+💬 discussion(): ongoing discussions or issue resolutions
 ```
 ```markdown
-⚙️ config(): Configuration changes
+⚙️ config(): configuration changes
 ```
 ```markdown
-🔧 tweak(): Minor adjustments or tweaks
+🔧 tweak(): minor adjustments or tweaks
 ```
 ```markdown
-🚨 alert(): Important notices or warnings
+🚨 alert(): important notices or warnings
 ```
 
 <br>
 
 **`11.`** **Please**
 ```markdown
-🙏 pls(): Request or polite suggestion
+🙏 pls(): request or polite suggestion
 ```
 
 <br>
